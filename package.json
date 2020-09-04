@@ -29,7 +29,7 @@
     "gatsby-transformer-remark": "^2.2.1",
     "lodash": "^4.17.14",
     "mobx": "^4",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "prismjs": "^1.15.0",
     "promise-polyfill": "^8.1.0",
     "prop-types": "^15.7.2",
